@@ -1,5 +1,10 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg" height="60"> <img src="https://vuejs.org/images/logo.png" height="60"></p>
 
+VueJs form with Laravel: Reset Password with Api, Jwt(Part3)
+
+Video link
+https://youtu.be/AjU6Ci82TLI
+
 ## About Repository
 
 In this repository, you will get the working application of Laravel + Vue Js + JWT Auth.
